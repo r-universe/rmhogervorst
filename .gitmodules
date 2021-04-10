@@ -7,7 +7,9 @@
 	path = badgecreatr
 	url = https://github.com/rmhogervorst/badgecreatr
 	shallow = true
+	registered = true
 [submodule "nsapi"]
 	path = nsapi
 	url = https://github.com/rmhogervorst/nsapi
 	shallow = true
+	registered = true
