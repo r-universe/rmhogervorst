@@ -1,0 +1,10 @@
+[
+  {
+    "package": "badgecreatr",
+    "oncran": true
+  },
+  {
+    "package": "nsapi",
+    "oncran": true
+  }
+]
