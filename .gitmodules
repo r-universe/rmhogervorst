@@ -8,8 +8,10 @@
 	url = https://github.com/rmhogervorst/badgecreatr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "nsapi"]
 	path = nsapi
 	url = https://github.com/rmhogervorst/nsapi
 	shallow = true
 	registered = true
+	oncran = true
