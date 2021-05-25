@@ -1,15 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rmhogervorst/universe
 	shallow = true
 	branch = HEAD
+[submodule "gephi"]
+	path = gephi
+	url = https://github.com/RMHogervorst/gephi
+	shallow = true
+	registered = true
+[submodule "pinboardr"]
+	path = pinboardr
+	url = https://github.com/RMHogervorst/pinboardr
+	shallow = true
+	registered = true
 [submodule "badgecreatr"]
 	path = badgecreatr
-	url = https://github.com/rmhogervorst/badgecreatr
+	url = https://github.com/RMHogervorst/badgecreatr
+	shallow = true
+	registered = true
+[submodule "banana"]
+	path = banana
+	url = https://github.com/RMHogervorst/banana
 	shallow = true
 	registered = true
 [submodule "nsapi"]
 	path = nsapi
-	url = https://github.com/rmhogervorst/nsapi
+	url = https://github.com/RMHogervorst/nsapi
+	shallow = true
+	registered = true
+[submodule "IMDB"]
+	path = IMDB
+	url = https://github.com/RMHogervorst/imdb
+	shallow = true
+	registered = true
+[submodule "coffeegeeks"]
+	path = coffeegeeks
+	url = https://github.com/RMHogervorst/coffeegeeks
 	shallow = true
 	registered = true

@@ -1,10 +1,25 @@
 [
   {
+    "package": "gephi"
+  },
+  {
+    "package": "pinboardr"
+  },
+  {
     "package": "badgecreatr",
     "oncran": true
   },
   {
+    "package": "banana"
+  },
+  {
     "package": "nsapi",
     "oncran": true
+  },
+  {
+    "package": "IMDB"
+  },
+  {
+    "package": "coffeegeeks"
   }
 ]
