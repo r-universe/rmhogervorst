@@ -28,6 +28,11 @@
 	url = https://github.com/RMHogervorst/nsapi
 	shallow = true
 	registered = true
+[submodule "IMDB"]
+	path = IMDB
+	url = https://github.com/RMHogervorst/imdb
+	shallow = true
+	registered = true
 [submodule "coffeegeeks"]
 	path = coffeegeeks
 	url = https://github.com/RMHogervorst/coffeegeeks
