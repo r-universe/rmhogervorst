@@ -28,8 +28,8 @@
 	url = https://github.com/RMHogervorst/nsapi
 	shallow = true
 	registered = true
-[submodule "IMDB"]
-	path = IMDB
+[submodule "imdb"]
+	path = imdb
 	url = https://github.com/RMHogervorst/imdb
 	shallow = true
 	registered = true
