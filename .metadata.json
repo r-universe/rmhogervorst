@@ -6,8 +6,7 @@
     "package": "pinboardr"
   },
   {
-    "package": "badgecreatr",
-    "oncran": true
+    "package": "badgecreatr"
   },
   {
     "package": "banana"
