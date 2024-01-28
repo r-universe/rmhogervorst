@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rmhogervorst/universe
+	url = https://github.com/rmhogervorst/rmhogervorst.r-universe.dev
 	branch = HEAD
 [submodule "badgecreatr"]
 	path = badgecreatr
